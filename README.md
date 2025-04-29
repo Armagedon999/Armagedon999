@@ -1,6 +1,6 @@
-# 👾 Kampus Bayangan | Underground Developer
+# 👾| Armagedon Developer
 
-Hi, I'm **[Your Name or Alias]** — a student, thinker, and developer from the underground world of campus life.  
+Hi, I'm **[Muhammad Irfan]** — a student, thinker, and developer from the underground world of campus life.  
 Building experimental projects, speaking the unspeakable, and crafting ideas no syllabus could teach.
 
 ## 🚀 Current Focus
